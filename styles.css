@@ -2,13 +2,13 @@
 #container {
 	margin:20px;
 }
-#container : before{
+#container:before{
 	content: "Before element";
 	color:#f00;
 	font-size:20px;
 }
 
-#container : after{
+#container:after{
 	content: "After element";
 	color:#f00;
 	font-size:20px;
